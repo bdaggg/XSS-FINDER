@@ -19,7 +19,10 @@ enter some text kısmına test yazıp submit butonuna tıkladığımız zaman a�
 
 yazdığımız test ifadesini URL içerisinde görüyoruz bu şekilde sitemizin get methodu kullandığını anlıyoruz.
 
+sitemizin get methodunu kullandığını anladıtan sonra sıra xss finder kodumuzu çalıştırmaya geliyor. dosyamızı çalıştırınca bizden hedef URL istiyor. hedef URL girilince kodumuz çalışıyor ve açığı bulunca ekrana açık bulundu yazıp açığı bulduran ifadeyi ekrana basıyor.
+
 
 ![Ekran Görüntüsü (185)](https://user-images.githubusercontent.com/110742864/236263573-49b3d633-4085-4d5a-abac-c3663e605020.png)
+
 
 
