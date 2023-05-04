@@ -10,7 +10,16 @@ tester.py dosyamızı çalıştırdığımızda yukarıdaki gibi bir get methodu
 
 ![Ekran Görüntüsü (181)](https://user-images.githubusercontent.com/110742864/236263257-b8c9f40a-ead3-403e-af30-61605be79fc7.png)
 
-enter some text kısmına test yazdıp submit butonuna tıkladığımız zaman aşşağıdaki gibi bir görüntü bizleri karşılıyor.
- 
+
+enter some text kısmına test yazıp submit butonuna tıkladığımız zaman aşağıdaki gibi bir görüntü bizleri karşılıyor.
+
+
 ![Ekran Görüntüsü (183)](https://user-images.githubusercontent.com/110742864/236263430-1fac3335-c875-4a4c-99a7-1c41d382ac2e.png)
+
+
+yazdığımız test ifadesini URL içerisinde görüyoruz bu şekilde sitemizin get methodu kullandığını anlıyoruz.
+
+
 ![Ekran Görüntüsü (185)](https://user-images.githubusercontent.com/110742864/236263573-49b3d633-4085-4d5a-abac-c3663e605020.png)
+
+
